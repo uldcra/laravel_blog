@@ -81,3 +81,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Prueba
 
 Nuestro primer repositorio **_código de prueba_**
+
+
+```sh
+$ npm install --production
+$ NODE_ENV=production node app
+```
